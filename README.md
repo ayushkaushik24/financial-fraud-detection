@@ -11,3 +11,5 @@ An end-to-end Machine Learning pipeline and interactive real-time Web Dashboard 
 ##  Tech Stack
 - **Language**: Python 3.x
 - **Libraries**: Pandas, NumPy, Scikit-Learn, Streamlit
+- ##  Dashboard Preview
+![E-Commerce Sales Dashboard](dashboard_preview.png.png)
